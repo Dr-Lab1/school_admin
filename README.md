@@ -1,4 +1,4 @@
 # school_admin
-# cool
+# coo
 #
 #
