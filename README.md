@@ -1,2 +1,3 @@
 # school_admin
-A smart contract which manages a school
+
+Un smart contract qui peut gérer une école avec un acteur principal
