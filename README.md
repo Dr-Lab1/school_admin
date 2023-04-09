@@ -5,3 +5,6 @@ Un smart contract qui peut gérer une école avec un acteur principal qui est l'
 Le code a assez de commentaire pour que soit compris assez facilement.
 
 # Comment executer ce code ?
+
+Vous pouvez utiliser :
+
