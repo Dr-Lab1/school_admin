@@ -9,6 +9,7 @@ Le code a assez de commentaire pour que soit compris assez facilement.
 Vous pouvez utiliser :
 
 1. <a href="https://remix.etheurum.org">REMIX</a>
+Avec Remix
 
 2. Votre Terminal VS code
 
