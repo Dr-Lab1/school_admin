@@ -10,7 +10,7 @@ Vous pouvez utiliser :
 
 1. <a href="https://remix.etheurum.org">REMIX</a></br>
 Avec Remix, créer un nouveau fichier <strong>schoolAdmin.sol</strong></br>
-Ensuite deploiyez le programme et testez le
+Ensuite deployez le programme et testez le
 
 2. Votre Terminal VS code
 
